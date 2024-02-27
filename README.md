@@ -48,4 +48,4 @@ To run our method, use command:
 You can refer to `config.ini` to adjust other hyperparameters.
 
 ## Citation
-Please cite the following paper: "Making Pre-trained Language Models Better Continual Few-Shot Relation Extractors". Shengkun Ma, Jiale Han, Yi Liang, Bo Cheng. arxiv
+Please cite the following paper: "Making Pre-trained Language Models Better Continual Few-Shot Relation Extractors". Shengkun Ma, Jiale Han, Yi Liang, Bo Cheng. COLING, 2024.
